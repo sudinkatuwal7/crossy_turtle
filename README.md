@@ -71,7 +71,7 @@ python main.py
 
 ## 💡 Tech Stack
 
-- Python 3.8
+- Python 3.8 or higher
 
 - Turtle graphics
 

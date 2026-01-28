@@ -6,6 +6,18 @@ This project demonstrates **Python OOP principles**, random object generation, c
 
 ---
 
+## 📁 File Structure
+```
+crossy_turtle/
+│
+├── main.py          <-- Main game loop
+├── player.py        <-- Player class (turtle movement)
+├── car_manager.py   <-- CarManager class (spawning/moving cars)
+├── scoreboard.py    <-- Scoreboard class (level & game over)
+└── README.md        <-- Project description, instructions, and gameplay info
+
+```
+---
 ## 🎮 How to Play
 
 - Use the **Up arrow key** to move the turtle forward.

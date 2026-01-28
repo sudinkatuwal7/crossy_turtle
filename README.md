@@ -28,23 +28,29 @@ This project demonstrates **Python OOP principles**, random object generation, c
 
 ## 🖥 Screenshots
 
+### **Starting of the Game**
+<img width="2560" height="1345" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/7d789f5a-8446-4206-80a0-143dbe1626df" />
+
+---
+
+### **Game Over**
 <img width="2560" height="1351" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/fd49fc93-57d8-4c2c-a80d-00ec679715fd" />
 
 ---
 
 ## 📦 Installation
 
-**1. Clone the repository:**
+### **1. Clone the repository:**
 ```
-git clone https://github.com/your-username/turtle-crossing-game.git
-```
-
-**2. Navigate to the project folder:**
-```
-cd turtle-crossing-game
+git clone https://github.com/sudinkatuwal7/crossy_turtle.git
 ```
 
-**3. Run the game (requires Python 3.8):**
+### **2. Navigate to the project folder:**
+```
+cd crossy_turtle
+```
+
+### **3. Run the game:**
 ```
 python main.py
 ```
